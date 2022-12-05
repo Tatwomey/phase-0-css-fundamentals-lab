@@ -3,3 +3,8 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color:red; text-align: center;
+}
+div {width: 700px; margin: auto; font-family: Helvetica Neue; background-color: white; padding: 30px;
+}
